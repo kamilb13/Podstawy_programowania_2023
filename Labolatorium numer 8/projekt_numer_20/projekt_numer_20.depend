@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670408779 source:d:\kamil brzoza 1id17b 2023\labolatorium numer 8\projekt_numer_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

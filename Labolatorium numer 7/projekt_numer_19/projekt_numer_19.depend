@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670406912 source:d:\kamil brzoza 1id17b 2023\labolatorium numer 7\projekt_numer_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
