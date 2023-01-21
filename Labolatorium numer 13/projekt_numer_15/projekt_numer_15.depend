@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674037214 source:d:\kamil brzoza 17b\labolatorium numer 13\projekt_numer_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hotel.h"
+
+1674037600 d:\kamil brzoza 17b\labolatorium numer 13\projekt_numer_15\hotel.h
+
+1674038210 source:d:\kamil brzoza 17b\labolatorium numer 13\projekt_numer_15\hotel.c
+	<stdio.h>
+	"hotel.h"
+

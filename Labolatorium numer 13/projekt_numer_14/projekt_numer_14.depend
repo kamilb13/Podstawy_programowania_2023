@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674036399 source:d:\kamil brzoza 17b\labolatorium numer 13\projekt_numer_14\daneos.c
+	<stdio.h>
+	"daneos.h"
+
+1674036418 d:\kamil brzoza 17b\labolatorium numer 13\projekt_numer_14\daneos.h
+
+1674036446 source:d:\kamil brzoza 17b\labolatorium numer 13\projekt_numer_14\main.c
+	<stdio.h>
+	"daneos.h"
+
